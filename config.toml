@@ -1,4 +1,4 @@
 theme = "ananke"
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://MasserKato.github.io/'
+languageCode = 'ja-jp'
+title = 'Masahiko Kato'
