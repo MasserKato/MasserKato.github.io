@@ -1,4 +1,12 @@
 theme = "ananke"
-baseURL = 'http://MasserKato.github.io/'
+baseURL = 'https://MasserKato.github.io/'
 languageCode = 'ja-jp'
 title = 'Masahiko Kato'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
+
+[security]
+  enableInlineShortcodes = false
